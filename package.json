@@ -12,6 +12,6 @@
   "dependencies": {
     "ably": "^1.2.40",
     "dotenv": "^16.1.4",
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   }
 }
